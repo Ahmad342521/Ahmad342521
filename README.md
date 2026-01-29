@@ -58,9 +58,9 @@ I’m a passionate full-stack developer with hands-on experience building **real
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *Add your LinkedIn link*
+- 💼 LinkedIn: */in/ahmadsiddiqui-dev/*
 - 🌍 Portfolio: *Add your portfolio link*
-- 📧 Email: *your-email@example.com*
+- 📧 Email: *ahmadsiddiquimehmoodiqbal@gmail.com*
 
 ---
 
